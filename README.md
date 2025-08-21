@@ -16,8 +16,7 @@ Hey 👋, am Hassan Osman student at the University of Louisville. Studying comp
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ff9800.svg?style=for-the-badge&logo=matplotlib&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)  
-![GoLand](https://img.shields.io/badge/goland-%2300ADD8.svg?style=for-the-badge&logo=goland&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hassan-ibra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)<br/>
