@@ -15,10 +15,7 @@ Hey 👋, am Hassan Osman student at the University of Louisville. Studying comp
 ![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hassan-ibra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hassan-ibra&theme=tokyonight&hide_border=false&cache_seconds=86400)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-ibra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400)
+
 
 
 ## 🏆 GitHub Trophies
