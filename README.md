@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋, am Hassan Osman student at the University of Louisville. Studying computer science.<br>I have a passion for technology and a strong desire to create innovative solutions to complex problems. <br>My interests lies in designing and developing software systems, applications, and websites
+Hey 👋, am Hassan Osman student at the University of Louisville. Studying computer science.<br>I have a passion for technology and a strong desire to create innovative solutions to complex problems. <br>My interests lies in designing and developing software systems and applications.
 
 
 ## 🌐 Socials:
